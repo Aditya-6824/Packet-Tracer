@@ -2,23 +2,6 @@
 
 > A simple and responsive web-based Packet Tracer-style application developed using Python, HTML, CSS & JavaScript.
 
----
-
-## Table of Contents
-
-- [About the Project](#about-the-project)  
-- [Features](#features)  
-- [Technologies Used](#technologies-used)  
-- [Getting Started](#getting-started)  
-  - [Prerequisites](#prerequisites)  
-  - [Installation](#installation)  
-  - [Running the Application](#running-the-application)  
-- [Project Structure](#project-structure)  
-- [Group Members](#group-members)  
-- [Usage](#usage)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -60,3 +43,4 @@ Make sure you have installed:
 1. Clone the repository:  
    ```bash
    git clone https://github.com/Aditya-6824/Packet-Tracer.git
+
